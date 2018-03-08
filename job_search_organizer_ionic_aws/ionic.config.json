@@ -1,0 +1,8 @@
+{
+  "name": "job_search_organizer_ionic_aws",
+  "app_id": "",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
