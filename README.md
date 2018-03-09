@@ -7,7 +7,7 @@ Building applications using **AWS**.
 ## Inconvenient (for now)
 
 > * Need to learn **DynamoDB**
-> * When we are starting to use the **AWS**, the bill could be important (for a newbie like me)
+> * When we are starting to use the **AWS**, the bill could be important (for a junior developer like me)
 
 ## Solution?
 
